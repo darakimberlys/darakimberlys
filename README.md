@@ -6,7 +6,7 @@ May the force be with you
 
 ### Find me ⬇
 
-https://allmylinks.com/darakimberlys
+[All My Links](https://allmylinks.com/darakimberlys){:target="_blank"}
 
 <!--
 **darakimberlys/darakimberlys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
