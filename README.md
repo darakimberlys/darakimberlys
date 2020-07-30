@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning React, but my favorite language is Java and still working on it, gradually I post my projects.
+
+# May the force be with you
+
 <!--
 **darakimberlys/darakimberlys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
