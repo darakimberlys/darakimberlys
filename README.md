@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 👩‍💻
 
-🌱 I’m currently learning React, but my favorite language is Java and still working on it, gradually I post my projects.
+🌱 I love learning new things...
+☕ When there's a Java meetup, I'll possibly be there, because it's favorite language, and I still working on it, gradually I post my projects. 
 
 May the force be with you 
 
