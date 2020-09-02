@@ -1,14 +1,11 @@
-### Hi there 👋 👩‍💻
-
-🌱 I love learning new things...
-
-☕ When there's a Java meetup, I'll possibly be there, because it's my favorite language, and I still working on it, gradually I post my projects. 
-
-May the force be with you 
-
-### Find me ⬇
-
-<a href="https://allmylinks.com/darakimberlys" target="_blank">All My Links</a>
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darakimberlys&hide=html&layout=compact&theme=radical" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=darakimberlys&theme=radical&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
 
 <!--
 **darakimberlys/darakimberlys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
